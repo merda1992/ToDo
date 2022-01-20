@@ -1,0 +1,47 @@
+.list-group-item {
+    padding: 15px 20px;
+    border-bottom: 1px solid #3d5a80;
+}
+
+.list-group-item:last-child {
+    border-bottom: none;
+}
+
+.list-group-item span {
+    line-height: 35px;
+    font-size: 20px;
+    cursor: pointer;
+    min-width: 550px;
+}
+
+.list-group-item input {
+    line-height: 35px;
+    font-size: 12px;
+    text-align: center;
+    border: 0;
+    width:220px;
+}
+
+.list-group-item button {
+    width: 35px;
+    height: 35px;
+    margin: 3px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.list-group-item .btn-done {
+    color: #e09f3e;
+}
+
+.list-group-item .btn-trash {
+    color: #e5383b;
+}
+
+.btn-edit {
+    margin-left: 10px;
+}
+
+  
+  
